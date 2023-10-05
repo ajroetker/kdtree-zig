@@ -1,0 +1,6 @@
+id: 9dub23okuaup1g1bjebn1szs87ejsmiguqdpk62de1e9mi4r
+name: kdtree
+main: src/kdtree.zig
+license: MIT
+description: Library for KD Trees
+dependencies:
